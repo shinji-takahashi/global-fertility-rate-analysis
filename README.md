@@ -182,7 +182,7 @@ pandas / numpy / scipy / statsmodels / scikit-learn / matplotlib / plotly
   - Total Fertility Rate: `SP.DYN.TFRT.IN`
   - GDP per capita, PPP (constant 2021 international $): `NY.GDP.PCAP.PP.KD`
   - Gini Index: `SI.POV.GINI`
-  - Female Labor Force Participation Rate: `SL.TLF.CACT.FE.ZS`
+  - Labor Force Participation Rate, Female (% of female population ages 15+): `SL.TLF.CACT.FE.ZS`
   - School Enrollment, Tertiary, Female (% gross): `SE.TER.ENRR.FE`
-  - Population Density: `EN.POP.DNST`
+  - Population Density (people per sq. km of land area): `EN.POP.DNST`
   - Government Expenditure on Education (% of GDP): `SE.XPD.TOTL.GD.ZS`
