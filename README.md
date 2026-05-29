@@ -180,7 +180,7 @@ pandas / numpy / scipy / statsmodels / scikit-learn / matplotlib / plotly
 
 - [World Bank Open Data](https://data.worldbank.org/)
   - Total Fertility Rate: `SP.DYN.TFRT.IN`
-  - GDP per capita PPP (constant 2021 international $): `NY.GDP.PCAP.PP.KD`
+  - GDP per capita, PPP (constant 2021 international $): `NY.GDP.PCAP.PP.KD`
   - Gini Index: `SI.POV.GINI`
   - Female Labor Force Participation Rate: `SL.TLF.CACT.FE.ZS`
   - School Enrollment, Tertiary, Female (% gross): `SE.TER.ENRR.FE`
